@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "Produtos Físicos (Fursuit)",
+      "items": [
+        {
+          "name": "Cabeça de Fursuit",
+          "price": "R$ 700,00",
+          "image": "assets/images/fursuit-head.png",
+          "telegram_text": "estou interessado na cabeça de fursuit por 700 reais"
+        },
+        {
+          "name": "Patas de Fursuit",
+          "price": "R$ 150,00",
+          "image": "assets/images/fursuit-paws.png",
+          "telegram_text": "estou interessado nas patas por 150 reais"
+        },
+        {
+          "name": "Caudas de Fursuit",
+          "price": "R$ 80,00 a R$ 200,00",
+          "image": "assets/images/fursuit-tail.png",
+          "telegram_text": "estou interessado nas caudas de fursuit"
+        }
+      ]
+    },
+    {
+      "name": "Serviços Digitais (Arte)",
+      "items": [
+        {
+          "name": "Comissão YCH",
+          "price": "R$ 30,00",
+          "image": "assets/images/ych.png",
+          "telegram_text": "estou interessado na comissão YCH por 30 reais"
+        },
+        {
+          "name": "Comissão Refsheet",
+          "price": "R$ 60,00",
+          "image": "assets/images/refsheet.png",
+          "telegram_text": "estou interessado na comissão refsheet por 60 reais"
+        }
+      ]
+    }
+  ]
+}
